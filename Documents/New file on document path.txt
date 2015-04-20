@@ -1,0 +1,317 @@
+# Standard Online Messages
+MSTD0001ACFM=MSTD0001ACFM: Are you sure you want to delete the record?
+MSTD0002ACFM=MSTD0002ACFM: Are you sure you want to delete this attachment?
+MSTD0003ACFM=MSTD0003ACFM: Are you sure you want to abort the operation?
+MSTD0004ACFM=MSTD0004ACFM: Are you sure you want to confirm all records?
+MSTD0005ACFM=MSTD0005ACFM: Do you want to register the new record(s)?
+MSTD0006ACFM=MSTD0006ACFM: Do you want to save the changes on this window?
+MSTD0007ACFM=MSTD0007ACFM: Changes have been made, Do you wish to proceed?
+MSTD0114ACFM=MSTD0114ACFM: {0} record found, Do you wish to proceed?
+MSTD0008AERR=MSTD0008AERR: {0} : The size of {1} is mismatch.
+MSTD0009AERR=MSTD0009AERR: {0} : Unspecified message ID.
+MSTD0010AERR=MSTD0010AERR: {0} = {1} already exist in {2}.
+MSTD0011AERR=MSTD0011AERR: {0} = {1} already exist in Database.
+MSTD0012AERR=MSTD0012AERR: {0} does not exist in {1}.
+MSTD0013AERR=MSTD0013AERR: {0} file does not exist.
+MSTD0014AERR=MSTD0014AERR: {0} import is cancelled.
+MSTD0015AERR=MSTD0015AERR: {0} must be alphanumeric.
+MSTD0016AERR=MSTD0016AERR: {0} must be between {1} and {2}.
+MSTD0017AERR=MSTD0017AERR: {0} must be earlier than or equal to {1}.
+MSTD0018AERR=MSTD0018AERR: {0} must be equal to or greater than {1}.
+MSTD0019AERR=MSTD0019AERR: {0} must be equal to or later than {1}.
+MSTD0020AERR=MSTD0020AERR: {0} must be equal to or later than today.
+MSTD0021AERR=MSTD0021AERR: {0} must be greater than {1}.
+MSTD0022AERR=MSTD0022AERR: {0} must be greater than or equal to {1}.
+MSTD0023AERR=MSTD0023AERR: {0} must be later than {1}.
+MSTD0024AERR=MSTD0024AERR: {0} must be less than {1}.
+MSTD0025AERR=MSTD0025AERR: {0} must be less than or equal to {1}.
+MSTD0026AERR=MSTD0026AERR: {0} must be one of the following {1}.
+MSTD0027AERR=MSTD0027AERR: {0} must be same with {1}.
+MSTD0028AERR=MSTD0028AERR: {0} must not be same with {1}.
+MSTD0029AERR=MSTD0029AERR: {0} should be empty.
+MSTD0030AERR=MSTD0030AERR: {0} should be specified.
+MSTD0031AERR=MSTD0031AERR: {0} should not be empty.
+MSTD0032AERR=MSTD0032AERR: Can not create folder {0}.
+MSTD0033AERR=MSTD0033AERR: Can not delete {0} file.
+MSTD0034AERR=MSTD0034AERR: Can not delete {0}.{1}.
+MSTD0035AERR=MSTD0035AERR: Can not insert new data.
+MSTD0036AERR=MSTD0036AERR: Can not update the data.
+MSTD0037AERR=MSTD0037AERR: Cannot create {0} in {1}.
+MSTD0038AERR=MSTD0038AERR: Cannot open file {0} for reading.
+MSTD0039AERR=MSTD0039AERR: Duplication found for {0}.
+MSTD0040AERR=MSTD0040AERR: Error when executing business validator: {0}.
+MSTD0041AERR=MSTD0041AERR: Error writing file = {0}. Reason = {1}.
+MSTD0042AERR=MSTD0042AERR: File already exist in {0}.
+MSTD0043AERR=MSTD0043AERR: Invalid {0}.
+MSTD0044AERR=MSTD0044AERR: Invalid {0}. The value must be {1}.
+MSTD0045AERR=MSTD0045AERR: Invalid date format for {0}. The date format must be {1}.
+MSTD0046AERR=MSTD0046AERR: Invalid date value. {0} must conform to valid calendar date.
+MSTD0047AERR=MSTD0047AERR: Invalid datetime format for {0}. The datetime format must be {1}.
+MSTD0048AERR=MSTD0048AERR: Invalid days value. Range of {0} is between 01 and 31.
+MSTD0049AERR=MSTD0049AERR: Invalid email for {0}. The email must be like {1}.
+MSTD0050AERR=MSTD0050AERR: Invalid format for {0}. The format must be {1}.
+MSTD0051AERR=MSTD0051AERR: Invalid length of {0}. The length can not be more than {1}.
+MSTD0052AERR=MSTD0052AERR: Invalid length of {0}. The length must be {1} digits.
+MSTD0053AERR=MSTD0053AERR: Invalid length of {0}. The length must be between {1} and {2} digits.
+MSTD0054AERR=MSTD0054AERR: Invalid months value. Range of {0} is between 01 and 12.
+MSTD0055AERR=MSTD0055AERR: Invalid numeric format for {0}.
+MSTD0056AERR=MSTD0056AERR: Invalid numeric format for {0}. The numeric format must be {1}.
+MSTD0057AERR=MSTD0057AERR: Invalid time format for {0}. The time format must be {1}.
+MSTD0058AERR=MSTD0058AERR: Length of filename {0} is invalid. It must be {1}.
+MSTD0059AERR=MSTD0059AERR: No data found.
+MSTD0060AERR=MSTD0060AERR: No data to be deleted.
+MSTD0061AERR=MSTD0061AERR: No data to be displayed.
+MSTD0062AERR=MSTD0062AERR: No data to be imported.
+MSTD0063AERR=MSTD0063AERR: No data to be saved.
+MSTD0064AERR=MSTD0064AERR: No data to be transferred.
+MSTD0065AERR=MSTD0065AERR: Size is too large for column {0} at {1}. Maximum size is {2}.
+MSTD0066AERR=MSTD0066AERR: Space is not allowed in {0}.
+MSTD0067AERR=MSTD0067AERR: Undefined Error : {0}.
+MSTD0068AERR=MSTD0068AERR: Undefined Error: {SQLCODE}: {ERRMSG}
+MSTD0069AERR=MSTD0069AERR: You don't have permission to access this screen.
+MSTD0070AERR=MSTD0070AERR: You don't have permission to add new record in this screen.
+MSTD0071AERR=MSTD0071AERR: You don't have permission to delete record in this screen.
+MSTD0072AERR=MSTD0072AERR: You don't have permission to modify record in this screen.
+MSTD0073AERR=MSTD0073AERR: No Change to Save.
+MSTD0074AERR=MSTD0074AERR: Please input data.
+MSTD0075AERR=MSTD0075AERR: Mandatory Field Not Entered.
+MSTD0076AINF=MSTD0076AINF: {0} Calculation is completed successfully.
+MSTD0077AINF=MSTD0077AINF: {0} Calculation is finished with error.
+MSTD0078AINF=MSTD0078AINF: {0} Checking is completed successfully.
+MSTD0079AINF=MSTD0079AINF: {0} Checking is finished with error.
+MSTD0080AINF=MSTD0080AINF: {0} Deletion is completed successfully.
+MSTD0081AINF=MSTD0081AINF: {0} Generation is completed successfully.
+MSTD0082AINF=MSTD0082AINF: {0} Generation is finished with error.
+MSTD0083AINF=MSTD0083AINF: {0} is not found.
+MSTD0084AINF=MSTD0084AINF: {0} Merging is finished with error.
+MSTD0085AINF=MSTD0085AINF: {0} process is completed successfully.
+MSTD0086AINF=MSTD0086AINF: {0} process is finished with error. {1}.
+MSTD0087AINF=MSTD0087AINF: {0} Validation is finished with error.
+MSTD0088AINF=MSTD0088AINF: Cancellation for {0} is completed successfully.
+MSTD0089AINF=MSTD0089AINF: Cancellation for {0} is finished with error.
+MSTD0090AINF=MSTD0090AINF: Deletion process is completed successfully.
+MSTD0091AINF=MSTD0091AINF: Deletion process is finished with error.
+MSTD0092AINF=MSTD0092AINF: Import data {0} is completed successfully.
+MSTD0093AINF=MSTD0093AINF: Import data {0} is finished with error.
+MSTD0094AINF=MSTD0094AINF: Importing process is started.
+MSTD0095AINF=MSTD0095AINF: Merging data is completed successfully.
+MSTD0096AINF=MSTD0096AINF: Merging data is finished with error.
+MSTD0097AINF=MSTD0097AINF: Posting data is completed successfully.
+MSTD0098AINF=MSTD0098AINF: Posting data is finished with error.
+MSTD0099AINF=MSTD0099AINF: Posting process is started.
+MSTD0100AINF=MSTD0100AINF: Saving {0} is finished with error.
+MSTD0101AINF=MSTD0101AINF: Saving data is completed successfully.
+MSTD0102AINF=MSTD0102AINF: Saving data is finished with error.
+MSTD0103AINF=MSTD0103AINF: Select one {0} to be processed.
+MSTD0104AINF=MSTD0104AINF: Select one {0} to be retrieved.
+MSTD0105AINF=MSTD0105AINF: Select one record to be deleted.
+MSTD0106AINF=MSTD0106AINF: Select one record to be modified.
+MSTD0107AINF=MSTD0107AINF: Select report type to be printed.
+MSTD0108AINF=MSTD0108AINF: Start process {0}.
+MSTD0109AINF=MSTD0109AINF: Un-Merging data is completed successfully.
+MSTD0110AINF=MSTD0110AINF: Un-Merging data is finished with error.
+MSTD0111AINF=MSTD0111AINF: Validation process is completed successfully.
+MSTD0112AINF=MSTD0112AINF: Validation process is finished with error.
+MSTD0113AINF=MSTD0113AINF: Validation process is started.
+
+# for synchronization with standard libraries.
+MSTD0114AERR=MSTD0114AERR: Error in Update because of concurrency check.
+MSTD0115AERR=MSTD0115AERR: Error in Delete because of concurrency check.
+MSTD0116AERR=MSTD0116AERR: Data is locked for concurrency check.
+MSTD0117AERR=MSTD0117AERR: Data integrity is violated. Child record exists.
+MSTD0118AERR=MSTD0118AERR: System Error occurred: Class not found.
+MSTD0119AERR=MSTD0119AERR: Parent Key not found when insert data.
+
+# for Application Error Messages  (1000 - 1999)
+MSTD1000AERR=MSTD1000AERR: {0} input must be a byte datatype.
+MSTD1001AERR=MSTD1001AERR: {0} input must be a short datatype.
+MSTD1002AERR=MSTD1002AERR: {0} input must be a number.
+MSTD1003AERR=MSTD1003AERR: {0} is not in the range {1} through {2}.
+MSTD1004AERR=MSTD1004AERR: Invalid email address : {0}.
+MSTD1005AERR=MSTD1005AERR: Can not delete {0},{1}.
+MSTD1006AERR=MSTD1006AERR: Can not cancel {0},{1}.
+MSTD1007AERR=MSTD1007AERR: {0} No data found.
+MSTD1008AERR=MSTD1008AERR: {0} Undefined Error : {0}.
+MSTD1009AERR=MSTD1009AERR: Error encountered while processing ODB Excel generation process: {0}.
+MSTD1010AERR=MSTD1010AERR: Unable to retrieve data to request and Excel Download.
+MSTD1011AERR=MSTD1011AERR: Sequence Code {0} does not exists in Sequence Master table.
+MSTD1012AERR=MSTD1012AERR: Sequence Key {0} for Sequence Code {1} is not supported.
+MSTD1013AERR=MSTD1013AERR: Unable to retrieve data to request and Excel Download. 
+MSTD1014AERR=MSTD1014AERR: Parameter values are missing.
+MSTD1015AERR=MSTD1015AERR: Document Number format is not supported.   
+MSTD1016AERR=MSTD1016AERR: A single record must be selected to execute Delete operation.
+MSTD1017AERR=MSTD1017AERR: A single record must be selected to execute Edit operation.
+MSTD1018AERR=MSTD1018AERR: A single record must be selected to execute Cancel operation.
+MSTD1019AERR=MSTD1019AERR: A single record must be selected to view its details.
+MSTD1020AERR=MSTD1020AERR: {0} Both of Criteria and Logical Option columns have to be NOT NULL or NULL concurrently.
+MSTD1021AERR=MSTD1021AERR: {0} Criteria should has format is 'Operator Value1 [AND Value2]' (Operator: =, <, >, <=, >=,IS [NOT] NULL,LIKE,[NOT] BETWEEN,[NOT] IN).
+MSTD1022AERR=MSTD1022AERR: {0} BETWEEN operator has to have start and end values. Ex BETWEEN VALUE1 AND VALUE2.
+MSTD1023AERR=MSTD1023AERR: {0} Datatypes are supported: NUMBER, VARCHAR, CHAR, NVARCHAR, NCHAR, DATE.
+MSTD1024AERR=MSTD1024AERR: {0} '{1}' is Not correct DATE value. DATE value should have format 'dd/mm/yyyy'.
+MSTD1025AERR=MSTD1025AERR: {0} '{1}' is Not correct NUMBER value. NUMBER value should have format '9.9'.
+MSTD1026AERR=MSTD1026AERR: Table/View {0} is not Existed in current DB schema.
+MSTD1027AERR=MSTD1027AERR: Failed to generate File ID.
+MSTD1028AERR=MSTD1028AERR: Upload Target File isn't selected.
+MSTD1029AERR=MSTD1029AERR: Temporary File Upload Location doesn't exist in Standard.properties. Please set Temporary File Upload Location in "file_updown_temp_default".
+MSTD1030AERR=MSTD1030AERR: FTP Server Name doesn't exist in Standard.properties. Please set FTP Server Name in "ftp_server_name".
+MSTD1031AERR=MSTD1031AERR: FTP User Name doesn't exist in Standard.properties. Please set FTP User Name in "ftp_user_name".
+MSTD1032AERR=MSTD1032AERR: FTP Password doesn't exist in Standard.properties. Please set FTP Password in "ftp_password".
+MSTD1033AERR=MSTD1033AERR: Selected file size exceeds limit file size. Selected File Size : [{0}KB]. Limit File Size : [{1}KB].
+MSTD1034AERR=MSTD1034AERR: File Upload Location doesn't exist in Standard.properties. Please set Upload Location in "file_upload_default".
+MSTD1035AERR=MSTD1035AERR: Failed to connect to FTP Server [{0}].
+MSTD1036AERR=MSTD1036AERR: Failed to log in FTP Server. FTP Server : [{0}], User Name : [{1}], Password : [{2}].
+MSTD1037AERR=MSTD1037AERR: Failed to upload the file. Size of uploaded file is not same with size of source file. Size of uploaded file : [{0}]byte, Size of source file : [{1}]byte.
+MSTD1038AERR=MSTD1038AERR: Failed to upload the file. Uploaded File doesn't exist in Upload Location.
+MSTD1039AERR=MSTD1039AERR: File ID [{0}] does not exist in TB_M_UPLOAD_FILE table.
+MSTD1040AERR=MSTD1040AERR: Failed to delete the file. File ID [{0}].
+MSTD1041AERR=MSTD1041AERR: Temporary File Download Location doesn't exist in Standard.properties. Please set Temporary Download Location in "file_updown_temp_default".
+MSTD1042AERR=MSTD1042AERR: FTP Timeout occurred. Current Timeout : [{0}millisecond] Please check value of "ftp_timeout" in Standard.properties.
+
+# for Jasper API	
+MSTD1043AERR=MSTD1043AERR: No printer service is available.	
+MSTD1044AERR=MSTD1044AERR: There is no printer name {0}.
+MSTD4005AINF=MSTD4005AINF: File {0} is successfully generated in {1}.
+MSTD4006AINF=MSTD4006AINF: Report {0} is successful to print.
+
+# for File Upload API	
+MSTD1045AERR=MSTD1045AERR: Transfer file to server failed.	
+MSTD1046AERR=MSTD1046AERR: Posting On Demand Batch is failed.
+MSTD1047AERR=MSTD1047AERR: Table or Query for excel download is not specified yet.
+MSTD1048AERR=MSTD1048AERR: Invalid excel file format. Please use valid excel template which you can download from screen.
+MSTD1049AERR=MSTD1049AERR: File {0} cannot be uploaded because It does not contain data to upload.
+MSTD1050AERR=MSTD1050AERR: Temporary Upload Folder doesn't exist in Standard.properties. Please set in "temporary_upload_folder".
+MSTD1051AERR=MSTD1051AERR: Input Folder doesn't exist in Standard.properties. Please set in "input_path_folder".
+MSTD1052AERR=MSTD1052AERR: Excel Archive Folder doesn't exist in Standard.properties. Please set in "xls_archive_folder".
+MSTD1053AERR=MSTD1053AERR: Batch Id doesn't exist in Standard.properties. Please set in "file_upload_batchId".
+MSTD1054AERR=MSTD1054AERR: Module Id doesn't exist in Standard.properties. Please set in "file_upload_modulId".
+MSTD1055AERR=MSTD1055AERR: Project Id doesn't exist in Standard.properties. Please set in "project_id".
+MSTD1056AERR=MSTD1056AERR: Failed to populate Metadata of the table. Please check TB_M_SYSTEM.
+MSTD1057AERR=MSTD1057AERR: File Id {0} is not registered in TB_M_SYSTEM properly. Please check field {1}.
+MSTD1058AERR=MSTD1058AERR: File {0} cannot be uploaded because It is empty.
+MSTD1059AERR=MSTD1059AERR: Transfer File {0} from {1} to {2} is not success.
+
+MSTD1060AERR=MSTD1060AERR: File ID [{0}] does not exist in server.
+MSTD1061AERR=MSTD1061AERR: {0} does not exist in Standard.properties. Please set in {1}.
+MSTD1062AERR=MSTD1062AERR: Report file {0} is fail to generate in {1}.
+MSTD1063AERR=MSTD1063AERR: Report {0} is fail to print at {1}.
+
+# for Excel Download screen
+MSTD1064AERR=MSTD1064AERR: {0} cannot be downloaded {1}. Please download {2}.
+MSTD1065AERR=MSTD1065AERR: Criteria of {0} should not be empty.
+MSTD1066AERR=MSTD1066AERR: {0} cannot be downloaded online. Please download using Big Data.
+MSTD1067AERR=MSTD1067AERR: {0} cannot be downloaded using Big Data. Please download online.
+
+# for about
+MSTD0000AERR={0}
+MSTD0000AINF={0}
+MSTD0000ACFM={0}
+MSTD0000AWRN={0}
+
+# for Standard Application Confirmation Messages  (2000 - 2999)
+MSTD2000ACFM=MSTD2000ACFM: Are you sure you want to cancel the record?
+MSTD2001ACFM=MSTD2001ACFM: Are you sure you want to post report generation to ODB?
+
+# for Standard Application Warning Messages  (3000 - 3999)
+ 
+# for Standard Application Information Messages  (4000 - 4999)
+MSTD4000AINF=MSTD4000AINF: Select one record to be canceled.
+MSTD4001AINF=MSTD4001AINF: ODB Excel posted with Document No: {0}.
+MSTD4002AINF=MSTD4002AINF: Document No: {0} with {1} file was downloaded.
+MSTD4003AINF=MSTD4003AINF: File Upload process is succeeded with File ID:{0}.
+MSTD4004AINF=MSTD4004AINF: File Delete process is succeeded with File ID:{0}.
+
+# Standard System Message
+MSTD8000SERR=MSTD8000SERR: Undefined Error: {0}: {1}.
+MSTD8001SERR=MSTD8001SERR: Failed to connect to {0}  Database.
+MSTD8002SERR=MSTD8002SERR: Undefined Error : {0}.
+MSTD8003SERR=MSTD8003SERR: Can not connect into database. All windows will be closed.
+MSTD8004SERR=MSTD8004SERR: FTP = {0} is failed. FTP returns code and value = {1}.
+
+# Standard Batch Messages
+MSTD7000BINF=MSTD7000BINF: {0} Begin.
+MSTD7001BINF=MSTD7001BINF: {0} End successfully  {1}, {2}, {3}.
+MSTD7002BINF=MSTD7002BINF: {0} End with error {1}, {2}, {3}.
+MSTD7003BINF=MSTD7003BINF: {0} End with warning {1}, {2}, {3}.
+MSTD7004BERR=MSTD7004BERR: Cannot find folder : {0} in {1}.
+MSTD7005BERR=MSTD7005BERR: Duplicate file : {0} in {1}.
+MSTD7006BERR=MSTD7006BERR: Cannot find file : {0} in {1}.
+MSTD7007BERR=MSTD7007BERR: Cannot replace file : {0} in {1}.
+MSTD7008BERR=MSTD7008BERR: Cannot create file : {0}  in {1}.
+MSTD7009BERR=MSTD7009BERR: Cannot move file : {0} from {1} to {2}.
+MSTD7010BERR=MSTD7010BERR: Cannot delete file : {0}  in {1}.
+MSTD7011BERR=MSTD7011BERR: Cannot open file : {0} in {1}.
+MSTD7012BERR=MSTD7012BERR: Cannot read file : {0} in {1}.
+MSTD7013BERR=MSTD7013BERR: File {0} is not expected file type {1}, {2}, {3}.
+MSTD7014BERR=MSTD7014BERR: File {0} is invalid {1} format.
+MSTD7015BERR=MSTD7015BERR: File {0} is invalid File Name's format, should be {1}.
+MSTD7016BERR=MSTD7016BERR: File {0} is invalid ASCII File (non TMAP Standard Format Interface file), Header is missing.
+MSTD7017BERR=MSTD7017BERR: File {0} is invalid ASCII File (non TMAP Standard Format Interface file), Trailer is missing.          
+MSTD7018BERR=MSTD7018BERR: File {0} is invalid ASCII File, Trailer - Total Records do not match.
+MSTD7019BERR=MSTD7019BERR: Missing parameter, Required = {0}, Actual = {1}.
+MSTD7020BERR=MSTD7020BERR: {0} Error Exception, {1}, {2}, {3}, {4}.
+MSTD7021BERR=MSTD7021BERR: {0} Data not found from {1}, {2}, {3}, {4}.
+MSTD7022BERR=MSTD7022BERR: {0} Duplicate key from {1}, {2}, {3}, {4}.
+MSTD7023BERR=MSTD7023BERR: {0} Invalid data from {1}, {2}, {3}, {4}.
+MSTD7024BERR=MSTD7024BERR: {0} Missing mandatory data from {1}, {2}, {3}, {4}.
+MSTD7025BINF=MSTD7025BINF: Data not found from Criteria {1}, {2}, {3}, {4}.
+MSTD7026BINF=MSTD7026BINF: Data not found for processing from {0}.
+MSTD7027BERR=MSTD7027BERR: User ID. {0} is not authorized.
+MSTD7028BERR=MSTD7028BERR: Invalid email address : {0}.
+MSTD7029BERR=MSTD7029BERR: Problem in sending email : {0}.
+MSTD7030BINF=MSTD7030BINF: {0} End successfully.
+MSTD7031BERR=MSTD7031BERR: {0} End with error.
+MSTD7032BWRN=MSTD7032BWRN: {0} End with warning.
+MSTD7066BINF=MSTD7066BINF: {0} End successfully {1}.
+MSTD7067BERR=MSTD7067BERR: {0} End with error.
+MSTD7068BINF=MSTD7068BINF: {0} End with warning {1}.
+MSTD7069BERR=MSTD7069BERR: Failed to read application manifest.
+MSTD7070BERR=MSTD7070BERR: {0} value doesnt exist in property Name of {1}.
+MSTD7071BERR=MSTD7071BERR: Value of {0} in {1} doesnt match with value in {2}.
+MSTD7072BERR=MSTD7072BERR: {0} does not exist in {1} of {2}.
+MSTD7061BINF=MSTD7061BINF: Processing {0} {1}.
+MSTD7062BINF=MSTD7062BINF: SQLLDR Normal End : {0}  Total Lines : {1}.
+MSTD7063BERR=MSTD7063BERR: Record length of line number {0} is not equal with the expected record length {1}.
+MSTD7064BERR=MSTD7064BERR: The TRANSFER_METHOD is not one of FTP, GW or MQ.
+MSTD7065BERR=MSTD7065BERR: The Input File {0} is Empty.
+
+# for Sending Batch
+MSTD7030BCRI=<C> {0}
+MSTD7031BINF=<I> Loading controller XML: {0}.
+MSTD7032BINF=<I> Retrieving information from data source: {0}: {1}.
+MSTD7033BINF=<I> Generate ASCII file content.
+MSTD7034BINF=<I> Writing ASCII File content to file: {0}.
+MSTD7035BINF=<I> ASCII file not created, controller XML does not allow empty data.
+MSTD7036BINF=<I> Committing any database updates.
+MSTD7037BWRN=<W> Type of {0} field is number but no format set for it.
+MSTD7060BINF=MSTD7060BINF: Sending file {0} to {1} using {2}.
+
+# for Receiving Batch
+MSTD7038BINF=MSTD7038BINF: Common Receiving Process Started for File ID {0}.
+MSTD7039BINF=MSTD7039BINF: Common Receiving Process End for File ID {0}.
+MSTD7039BWRN=MSTD7039BWRN: Common Receiving Process End for File ID {0} with warning.
+MSTD7039BERR=MSTD7039BERR: Common Receiving Process End for File ID {0} with error.
+MSTD7040BERR=MSTD7040BERR: Input Path for {0} not found in Configuration File.
+MSTD7041BERR=MSTD7041BERR: {0} Interface File does not exists under Input path : {1}.
+MSTD7042BERR=MSTD7042BERR: Invalid Filename {0} for File {1}.  Format should be {2}.  Please change the filename according to format or re-send the file with correct file name.
+MSTD7043BERR=MSTD7043BERR: Invalid FROM SYSTEM. Expected : {0}.  Found in File : {1}.
+MSTD7044BERR=MSTD7044BERR: Invalid TO SYSTEM. Expected : {0}.  Found in File : {1}.
+MSTD7045BERR=MSTD7045BERR: Invalid FileName.  Expected : {0}.  Found in File : {1}.
+MSTD7046BERR=MSTD7046BERR: Invalid File ID.  Expected : {0}.  Found in File : {1}.
+MSTD7047BERR=MSTD7047BERR: File {0} is invalid ASCII File, Trailer and Header are missing.
+MSTD7048BERR=MSTD7048BERR: File is valid but there is no Record for Processing in file {0}.
+MSTD7049BERR=MSTD7049BERR: Control file {0} is missing for {1} file uploading.
+MSTD7050BERR=MSTD7050BERR: SQLLDR Abnormal End : {0} : See {1}  Total Lines : {2}.
+MSTD7051BERR=MSTD7051BERR: SQLLDR Proceeded, some of data rejected : {0} : See {1} & {2}.
+MSTD7051BWRN=MSTD7051BWRN: SQLLDR Proceeded, some of data rejected : {0} : See {1} & {2}.
+MSTD7052BERR=MSTD7052BERR: SQLLDR Normal End : {0}  Total Lines : {1}.
+
+# for ascii file generation 
+MSTD7053BINF=MSTD7053BINF: Rolling-back any database updates.
+MSTD7054BINF=MSTD7054BINF: Moving file from: {0} to: {1}.
+
+# On demand Excel download batch
+MSTD7055BERR=MSTD7055BERR: DOC ID = {0} not found in status/queue table.
+MSTD7056BERR=MSTD7056BERR: Process {0} was terminated due to execution timeout.
+MSTD7057BINF=MSTD7057BINF: Process {0} was cancelled by user request.
+MSTD7058BINF=MSTD7058BINF: Generating file {0}.
+MSTD7059BINF=MSTD7059BINF: Adding file {0} to {1}.
