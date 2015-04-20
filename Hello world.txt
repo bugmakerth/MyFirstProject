@@ -1,3 +1,7 @@
 Hello
+<<<<<<< HEAD
 
 Hello3
+=======
+Hello2
+>>>>>>> upstream/master
