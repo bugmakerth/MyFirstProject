@@ -2,9 +2,10 @@ public class HelloWorld {
    public static void main(String[] args) {
 	System.out.println("My First Program");
 	System.out.println("Hello World.");
-	System.out.println("Loop 10 times.");
-	for (int i=0; i<10; i++) {
+	System.out.println("Loop 20 times.");
+	for (int i=0; i<20; i++) {
 		System.out.println("Line index: " + i+1);
-	}	
+		String.format("%010d", Integer.parseInt(i+""));
+	}		
   }
 }
