@@ -64,7 +64,9 @@ public class CFN02310ServiceImpl implements IFN02310Service{
 		CFN02311Form requesterForm = form.getRequesterForm();
 		PVHeader pv = this.setFormToPvHeaderModel(form);
 		
-		docNoGen.generateDocNo("PV", new Date());
+		String pvNo = docNoGen.generateDocNo(CFN000000Constance.PV, new Date());
+		pv.setPvNo(pvNo);
+		
 		repository.saveDraft(pv, null, null);
 		return true;
 	}
