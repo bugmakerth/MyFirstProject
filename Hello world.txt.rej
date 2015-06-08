@@ -1,0 +1,11 @@
+diff a/Hello world.txt b/Hello world.txt	(rejected hunks)
+@@ -1,7 +1,6 @@
+ Hello
+-<<<<<<< HEAD
+ 
+ Hello3
+-=======
++
+ Hello2
+->>>>>>> upstream/master
++
